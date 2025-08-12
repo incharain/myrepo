@@ -1,2 +1,2 @@
 # myrepo
-this my first repository.(20)
+this my first repository
